@@ -15,8 +15,8 @@
 
 #### 各種アカウント
 
-- Blog: [fujjima blog](https://www.fujjimalab.com/)
-- github: https://github.com/fujjima
+- [Blog](https://www.fujjimalab.com/)
+- [Github](https://github.com/fujjima)
 
 
 ## 保有スキル
