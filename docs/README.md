@@ -15,7 +15,7 @@
 
 #### 各種アカウント
 
-- [Blog](https://www.fujjimalab.com/)
+- [Blog](https://fujjimalab.com/)
 - [Github](https://github.com/fujjima)
 
 
@@ -59,10 +59,26 @@
 
 ## 職務経歴詳細
 
+**株式会社ロコガイド（2022年12月〜2023年5月現在） ※業務委託としての参画**
+
+チラシ・買い物情報サービスの開発
+
+- 業務内容
+  - 広告サービスの新規機能開発や改善、運用
+  - 社内向け管理画面の開発・改善
+
+- 担当フェーズ：設計、実装、テスト（設計・実装）、保守
+- バックサイド：Rails
+- フロントサイド：React, Vue, JavaScript, TypeScript, jQuery, CoffeeScript
+- DB：MySQL
+- テスト：rspec
+- インフラ：AWS
+- その他ツール：Figma、Sentry
+
 
 <br>
 
-**株式会社グロービス（2021年3月〜2022年10月現在）**
+**株式会社グロービス（2021年3月〜2022年11月） ※業務委託としての参画**
 
 社会人向け教育サービスの基盤開発
 
@@ -77,6 +93,7 @@
 - バックサイド：Rails
 - フロントサイド：React, JavaScript, TypeScript, jQuery
 - DB：MySQL
+- テスト：rspec
 - インフラ：AWS
 - その他ツール：Autify、Figma、Sentry
 
